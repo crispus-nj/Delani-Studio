@@ -14,3 +14,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.sub-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15rem;
+    /* padding-top: 2rem; */
+    color: white;
+}
