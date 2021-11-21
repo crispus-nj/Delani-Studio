@@ -1,3 +1,5 @@
+
+// function for what we do section
 $(document).ready(function () {
   $(".design-image").click(function () {
     $(".design-description").toggle();
@@ -24,7 +26,7 @@ $(document).ready(function () {
     });
   });
 });
-
+// function to hover portfolio images
 $(document).ready(function(){
   $('.img1').hover(function(){
     $('.img1-description').slideToggle(1000)
