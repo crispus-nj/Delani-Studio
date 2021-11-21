@@ -1,5 +1,6 @@
 ## Delani Studio
 ## Projectt Decription
+This is Delani studio for making designs. They convert a problem to solutions in form of designs.
 ## Author: __Crispus Muthiora__
 ## Technologies used
 * HTML
