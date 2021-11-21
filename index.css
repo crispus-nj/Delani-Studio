@@ -64,3 +64,10 @@ h5 {
     background-size: cover;
     background-repeat: no-repeat; 
 }
+.row-contact {
+    margin-top: 3.5rem;
+}
+.contact {
+    color: white;
+    font-weight: bold;
+}
