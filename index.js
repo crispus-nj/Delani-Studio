@@ -24,3 +24,8 @@ $(document).ready(function () {
     });
   });
 });
+$(document).ready(function(){
+  $('.img1').hover(function(){
+    $('.img1-description').slideToggle(1000)
+  })
+})
