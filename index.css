@@ -35,13 +35,14 @@ small {
 }
 .about-title{
     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 h6 {
     line-height: 2.5rem;
 }
 #services {
     background-image: url(./assets/backgrounds/s_image.jpg);
-    height: 310px;
+    /* height: 310px; */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
