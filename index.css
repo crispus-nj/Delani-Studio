@@ -1,91 +1,107 @@
-.brand-logo{
-    height: 2.5rem;
+.brand-logo {
+  height: 2.5rem;
+}
+li a {
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 .row-about {
-    height: 600px;
+  height: 600px;
 }
 #about-us {
-    background-image: url(./assets/backgrounds/h_img.jpg);
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url(./assets/backgrounds/h_img.jpg);
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .sub-section {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 15rem;
-    /* padding-top: 2rem; */
-    color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15rem;
+  /* padding-top: 2rem; */
+  color: white;
 }
 .sub-section-1 {
-    margin-bottom: 0.8rem;
+  margin-bottom: 0.8rem;
 }
 small {
-    text-align: center;
+  text-align: center;
 }
 .sub-section-mouse {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
 }
-.about-title{
-    font-weight: bold;
-    font-family: 'Roboto', sans-serif;
+.about-title {
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.5rem;
 }
 h6 {
-    line-height: 2.5rem;
+  line-height: 2.5rem;
+  font-size: 1.4rem;
+  font-family: sans-serif;
 }
 #services {
-    background-image: url(./assets/backgrounds/s_image.jpg);
-    /* height: 310px; */
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url(./assets/backgrounds/s_image.jpg);
+  /* height: 310px; */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .sub-services {
-    color: white;
-    margin: 5.5rem 0; 
-    text-align: center;
+  color: white;
+  margin: 5.5rem 0;
+  text-align: center;
 }
 .what-we-do {
-    margin-top: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 h5 {
-    font-weight: bold;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 1.4rem;
 }
 .development-description,
 .design-description,
 .product-description {
-    display: none;
+  display: none;
+  font-size: 1.4rem;
+  line-height: 2.5rem;
 }
 #contact {
-    background-image: url(./assets/backgrounds/c_image.jpg);
-    height: 33rem;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat; 
+  background-image: url(./assets/backgrounds/c_image.jpg);
+  height: 33rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .row-contact {
-    margin-top: 3.5rem;
+  margin-top: 3.5rem;
 }
 .contact {
-    color: white;
-    font-weight: bold;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 input,
-textarea{
-    color: white !important;
+textarea {
+  color: white !important;
 }
 ::placeholder {
-    color: white !important;
-    opacity: 2 !important;
-    font-weight: bold !important;
+  color: white !important;
+  opacity: 2 !important;
+  font-weight: bold !important;
 }
 .social-icon-1 {
-    padding-left: 0;
+  padding-left: 0;
 }
