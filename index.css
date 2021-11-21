@@ -57,6 +57,11 @@ h6 {
 h5 {
     font-weight: bold;
 }
+.development-description,
+.design-description,
+.product-description {
+    display: none;
+}
 #contact {
     background-image: url(./assets/backgrounds/c_image.jpg);
     height: 33rem;
