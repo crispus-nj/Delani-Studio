@@ -34,3 +34,9 @@ small {
     align-items: center;
     margin-top: 10rem;
 }
+.about-title{
+    font-weight: bold;
+}
+h5 {
+    line-height: 2rem;
+}
