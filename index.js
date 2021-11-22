@@ -10,7 +10,7 @@ $(document).ready(function () {
     Email: ${email}.
     Message: ${message}.
 
-    Thank you for contact us.We will get back to you!!`);
+    Thank you for contacting us.We will get back to you!!`);
   });
 });
 
