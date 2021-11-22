@@ -153,6 +153,10 @@ input,
 textarea {
   color: white !important;
 }
+.error {
+  color: #e74c3c ;
+  visibility: hidden;
+}
 ::placeholder {
   color: white !important;
   opacity: 2 !important;
