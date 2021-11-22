@@ -36,7 +36,7 @@ small {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 10rem;
+  margin-top: 6rem;
 }
 .about-title {
   font-weight: bold;
@@ -161,14 +161,14 @@ textarea {
   opacity: 2 !important;
   font-weight: bold !important;
 }
-.btn-success {
+/* .btn-success {
   width: 30%;
   font-weight: bold;
   font-family: sans-serif;
   font-size: 1.3rem;
   margin: 0 auto;
   margin-bottom: 3rem;
-}
+} */
 .social-icon-1 {
   padding-left: 0;
 }
