@@ -11,7 +11,7 @@ This is Delani studio for making designs. They convert a problem to solutions in
 ## Setup Process
 * [Click here](https://engineer237.github.io/Delani-Studio/) to access the site.access the site using any browser of choice.
 * To run the site locally simply follow the following:
-    1. git clone 
+    1. git clone git@github.com:engineer237/Delani-Studio.git
     2. In the folder, run index.html file in the browser of choice.
 ## Bugs
 ## Contacts
